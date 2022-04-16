@@ -6,8 +6,8 @@ var app = new Vue({
     号码: '9862171105',
     邮箱: '1353753283@qq.com',
     个人网页: 'https://zhijie0.github.io/myhomepage/',
-    地址: '测试的',
-    职业: '时长两年半的个人练习生',
+    地址: '山东省济南市长清区',
+    职业: '山东师范大学本科生；山东大学准研究生',
     头像地址: 'images/user.png',
     /** 支持类型有[微博,qq,git,instagram]*/
     联系方式: [
